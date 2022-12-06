@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "tipo": "ARCILLA"
+  },
+  {
+    "id": 2,
+    "tipo": "ARCILLAS CERAMICAS"
+  },
+  {
+    "id": 3,
+    "tipo": "ARCILLAS FERRUGINOSAS"
+  },
+  {
+    "id": 4,
+    "tipo": "ARCILLAS MISCELANEAS"
+  },
+  {
+    "id": 5,
+    "tipo": "ARENAS"
+  },
+  {
+    "id": 6,
+    "tipo": "ARENA DE CANTERA"
+  },
+  {
+    "id": 7,
+    "tipo": "RECEBO"
+  },
+  {
+    "id": 8,
+    "tipo": "ARENA DE RIO"
+  },
+  {
+    "id": 9,
+    "tipo": "GRAVA DE CANTERA"
+  },
+  {
+    "id": 10,
+    "tipo": "GRAVAS"
+  },
+  {
+    "id": 11,
+    "tipo": "ORO"
+  },
+  {
+    "id": 12,
+    "tipo": "PLATA"
+  },
+  {
+    "id": 13,
+    "tipo": "CALIZAS"
+  },
+  {
+    "id": 14,
+    "tipo": "MARMOL"
+  },
+  {
+    "id": 15,
+    "tipo": "CARBON"
+  },
+  {
+    "id": 16,
+    "tipo": "PLATINO"
+  },
+  {
+    "id": 17,
+    "tipo": "DOLOMITA"
+  },
+  {
+    "id": 18,
+    "tipo": "ARENAS SILICEAS"
+  },
+  {
+    "id": 19,
+    "tipo": "GRAVAS DE RIO"
+  },
+  {
+    "id": 20,
+    "tipo": "SERPENTINA (SILICATO DE MAGNESIO)"
+  },
+  {
+    "id": 21,
+    "tipo": "CROMO - CROMITA"
+  },
+  {
+    "id": 22,
+    "tipo": "MINERAL DE MAGNESIO (MAGNESITA)"
+  },
+  {
+    "id": 23,
+    "tipo": "SERPENTINA EN RAJON"
+  },
+  {
+    "id": 24,
+    "tipo": "ASBESTO"
+  },
+  {
+    "id": 25,
+    "tipo": "ARCILLAS CAOLINITICA"
+  },
+  {
+    "id": 26,
+    "tipo": "FELDESPATOS"
+  },
+  {
+    "id": 27,
+    "tipo": "GRAVAs DE RIO"
+  },
+  {
+    "id": 28,
+    "tipo": "MARMOL EN RAJÓN (RETAL DE MÁRMOL)"
+  },
+  {
+    "id": 29,
+    "tipo": "ARCILLAS REFRACTARIAS"
+  },
+  {
+    "id": 30,
+    "tipo": "MARMOL (BLOQUE MAYOR O IGUAL A 1 M3)"
+  },
+  {
+    "id": 31,
+    "tipo": "YESO"
+  },
+  {
+    "id": 32,
+    "tipo": "ARCILLAS BENTONITICA"
+  },
+  {
+    "id": 33,
+    "tipo": "TALCO"
+  },
+  {
+    "id": 34,
+    "tipo": "DIABASA"
+  },
+  {
+    "id": 35,
+    "tipo": "ESMERALDAS"
+  },
+  {
+    "id": 36,
+    "tipo": "ESMERALDAS SEMIPRECIOSA"
+  },
+  {
+    "id": 37,
+    "tipo": "ESMERALDAS EN BRUTO"
+  },
+  {
+    "id": 38,
+    "tipo": "ESMERALDAS ENGASTADA"
+  },
+  {
+    "id": 39,
+    "tipo": "ESMERALDAS TALLADAS"
+  },
+  {
+    "id": 40,
+    "tipo": "SAL"
+  },
+  {
+    "id": 41,
+    "tipo": "ROCA CORALINA (BLOQUE MAYOR O IGUAL A 1 M3)"
+  },
+  {
+    "id": 42,
+    "tipo": "ROCA CORALINA (BLOQUE MENOR A 1 M3)"
+  },
+  {
+    "id": 43,
+    "tipo": "ROCA FOSFORICA"
+  },
+  {
+    "id": 44,
+    "tipo": "MARMOL (BLOQUE MENOR A 1 M3)"
+  },
+  {
+    "id": 45,
+    "tipo": "HIERRO"
+  },
+  {
+    "id": 46,
+    "tipo": "PUZOLANAS"
+  },
+  {
+    "id": 47,
+    "tipo": "GRANITO (BLOQUE MAYOR O IGUAL A 1 M3)"
+  },
+  {
+    "id": 48,
+    "tipo": "TRAVERTINO Y CALIZAS CRISTALINAS EN BLOQUE MAYOR O IGUAL A 1 M3"
+  },
+  {
+    "id": 49,
+    "tipo": "TRAVERTINO Y CALIZAS CRISTALINAS EN BLOQUE MENOR A 1 M3"
+  },
+  {
+    "id": 50,
+    "tipo": "CUARZO"
+  },
+  {
+    "id": 51,
+    "tipo": "ASFALTITA"
+  },
+  {
+    "id": 52,
+    "tipo": "SERPENTINA (BLOQUE MENOR A 1 M3)"
+  },
+  {
+    "id": 53,
+    "tipo": "SERPENTINA (BLOQUE MAYOR O IGUAL A 1 M3)"
+  },
+  {
+    "id": 54,
+    "tipo": "MANGANESO"
+  },
+  {
+    "id": 55,
+    "tipo": "VOLFRAMIO"
+  },
+  {
+    "id": 56,
+    "tipo": "COBRE"
+  },
+  {
+    "id": 57,
+    "tipo": "BASALTO"
+  },
+  {
+    "id": 58,
+    "tipo": "BAUXITA"
+  },
+  {
+    "id": 59,
+    "tipo": "AZUFRE"
+  },
+  {
+    "id": 60,
+    "tipo": "BARITA"
+  },
+  {
+    "id": 61,
+    "tipo": "TANTALIO"
+  },
+  {
+    "id": 62,
+    "tipo": "NIQUEL"
+  },
+  {
+    "id": 63,
+    "tipo": "PIEDRA ARENISCA-PIEDRA BOGOTANA"
+  },
+  {
+    "id": 64,
+    "tipo": "CARBONATO DE CALCIO"
+  },
+  {
+    "id": 65,
+    "tipo": "GRAFITO"
+  },
+  {
+    "id": 66,
+    "tipo": "MICA"
+  },
+  {
+    "id": 67,
+    "tipo": "FLUORITA"
+  },
+  {
+    "id": 68,
+    "tipo": "ARENAS NEGRAS"
+  },
+  {
+    "id": 69,
+    "tipo": "ESTANO"
+  },
+  {
+    "id": 70,
+    "tipo": "NIOBIO"
+  }
+]
